@@ -17,4 +17,5 @@ Here is how vJoy/BeamaniPC looks configured:
 ![Settings window](https://dl.dropbox.com/s/ypammrb5a7neqfo/this2.png)
 
 Work in Progress: A tray app to replace FreePIE that just loads the script and a config.. whenever I get around to it. 
+
 Check it out here: https://github.com/ars-magna/sdvx-feeder
