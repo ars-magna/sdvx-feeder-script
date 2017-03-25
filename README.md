@@ -12,4 +12,9 @@ When using the script you can't focus the SDVX window or the script won't work, 
 
 Just focus on a notepad window or the desktop or some noise and play in windowed mode, srry
 
+Here is how vJoy/BeamaniPC looks configured:
+
+![Settings window](https://dl.dropbox.com/s/ypammrb5a7neqfo/this2.png)
+
 Work in Progress: A tray app to replace FreePIE that just loads the script and a config.. whenever I get around to it. 
+Check it out here: https://github.com/ars-magna/sdvx-feeder
